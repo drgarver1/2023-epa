@@ -12,6 +12,8 @@ Finally, we will commit these edits to GitHub. To do this, scroll down to the bo
 
 Note: In the browser, GitHub will suggest "Update file.md" as the commit message. But you can be more descriptive - practice writing commit messages that help you remember detail about what you changed.
 
+Here are some more edits in task 1.
+
 ## Task 2: Practice Markdown 
 
 Now let's practice Markdown and commit another edit to this file. 
@@ -27,6 +29,8 @@ We can make lists – *note that lists need a carriage return before list items!
 1. bananas
 2. tamales
 3. cakes
+4. tacos
+5. hot sauce
 
 [Markdown](https://quarto.org/docs/authoring/markdown-basics.html) can also make hyperlinks using the `[]()` pattern: you put words to hyperlink in `[]` and the URL in `()`. For example:
 
